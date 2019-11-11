@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<content connectType="Zendesk" sourceType="Category" sourceName="GlobalLink Connect Cloud (GC)" sourceId="115000772865" previewURL="https://translationscom.zendesk.com/hc/en-us/categories/115000772865-GlobalLink-Connect-Cloud-GC-">
+    <field id="115000772865" name="title" translate="true" maxLength="0" metadata="false"><![CDATA[GlobalLink Connect Cloud (GC)]]></field>
+    <field id="115000772865" name="body" translate="true" maxLength="0" metadata="false"><![CDATA[GlobalLink Connect serves as a bridge between your back-end systems and Translations.com’s industry-leading translation services, allowing you to use the full functionality of your CMS, DMS, e-commerce, PIM, and database platforms to manage multilingual content.]]></field>
+</content>

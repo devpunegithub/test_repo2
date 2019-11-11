@@ -1,0 +1,75 @@
+{
+  "configure_teamsite_connection": {
+    "teamsite_user_name": "",
+    "teamsite_password": "",
+    "role": ""
+  },
+  "configure_metadata": {
+    "configure_metadata_translation": {
+      "translate_metadata": false,
+      "metadata_field_names": [
+        {
+          "id": "",
+          "name": ""
+        }
+      ],
+      "translate_only_metadata": [
+        {
+          "id": "",
+          "regex": ""
+        }
+      ]
+    },
+    "configure_metadata_post_processing_rules": [
+      {
+        "id": "",
+        "metadata_name": "",
+        "target_locale": "",
+        "rule_type": "",
+        "search": "",
+        "replacement": ""
+      }
+    ]
+  },
+  "configure_target_rules": {
+    "configure_workarea": [
+      {
+        "id": "",
+        "workarea_name": "",
+        "workarea_path": "",
+        "target_rules": [
+          {
+            "id": "",
+            "target_locale": "",
+            "target_rule": ""
+          }
+        ]
+      }
+    ],
+    "configure_one_to_many_target_locale_mapping": [
+      {
+        "target_locale": "",
+        "mapped_target_locales": [
+          {
+            "id": "",
+            "mapped_locale": ""
+          }
+        ]
+      }
+    ]
+  },
+  "configure_globallink_adaptor": {
+    "import_type": "",
+    "allow_duplicate_submissions": false,
+    "use_import_notifications": false,
+    "logging level": "debug",
+    "configure_schedulers": [
+      {
+        "id": "",
+        "name": "",
+        "schedule": "",
+        "enabled": false
+      }
+    ]
+  }
+}
